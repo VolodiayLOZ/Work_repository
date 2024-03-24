@@ -36,3 +36,4 @@ git branch
 ```sh
 git merge
 ```
+для проверки слияния 
