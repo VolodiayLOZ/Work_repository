@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tasks\giri\bin\Debug\net8.0\giri.exe
+C:\Users\User\Desktop\Tasks\giri\bin\Debug\net8.0\giri.deps.json
+C:\Users\User\Desktop\Tasks\giri\bin\Debug\net8.0\giri.runtimeconfig.json
+C:\Users\User\Desktop\Tasks\giri\bin\Debug\net8.0\giri.dll
+C:\Users\User\Desktop\Tasks\giri\bin\Debug\net8.0\giri.pdb
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\giri.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\giri.AssemblyInfo.cs
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\giri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\giri.sourcelink.json
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\giri.dll
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\refint\giri.dll
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\giri.pdb
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\giri.genruntimeconfig.cache
+C:\Users\User\Desktop\Tasks\giri\obj\Debug\net8.0\ref\giri.dll
